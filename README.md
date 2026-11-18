@@ -4,6 +4,7 @@ An AI-powered Deep Research Agent that automatically plans research, performs mu
 
 🚀 Live Demo
 
+**Note on Deployment:** This application is hosted on Render's free tier. If the service has been inactive, the initial startup may take approximately 1 minute. Please allow some time for the application to wake up on the first visit.
 👉 https://deep-research-agent-ktwl.onrender.com/
 
 📌 Features
